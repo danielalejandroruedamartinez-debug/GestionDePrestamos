@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "fecha": "2026-02-24 21:51:30",
+        "accion": "Gestionar prestamos"
+    },
+    {
+        "id": 2,
+        "fecha": "2026-02-25 11:52:36",
+        "accion": "actualizar herramienta"
+    },
+    {
+        "id": 3,
+        "fecha": "2026-02-25 11:53:45",
+        "accion": "actualizar herramienta"
+    },
+    {
+        "id": 4,
+        "fecha": "2026-02-25 11:57:50",
+        "accion": "actualizar herramienta"
+    },
+    {
+        "id": 5,
+        "fecha": "2026-02-25 12:11:19",
+        "accion": "actualizar herramienta"
+    },
+    {
+        "id": 6,
+        "fecha": "2026-02-25 12:12:16",
+        "accion": "actualizar herramienta"
+    }
+]

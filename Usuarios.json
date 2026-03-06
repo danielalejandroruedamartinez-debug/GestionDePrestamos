@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "Nombre": "qqqq",
+        "Apellido": "wwwww",
+        "Telefono": "1111111111",
+        "Direccion": "calle 30#49",
+        "id_herramienta": "1"
+    },
+    {
+        "id": 2,
+        "Nombre": "santiago",
+        "Apellido": "baez",
+        "Telefono": "3244517055",
+        "Direccion": "calle 40 #6-9",
+        "id_herramienta": "2"
+    },
+    {
+        "id": 3,
+        "Nombre": "esteban",
+        "Apellido": "rivera",
+        "Telefono": "3108156591",
+        "Direccion": "calle 7 #6-7",
+        "id_herramienta": "2"
+    },
+    {
+        "id": 4,
+        "Nombre": "daniel",
+        "Apellido": "martinez",
+        "Telefono": "1234567899",
+        "Direccion": "calle 10 #8-2",
+        "id_herramienta": "1"
+    },
+    {
+        "id": 5,
+        "Nombre": "daniel",
+        "Apellido": "castillo",
+        "Telefono": "1234567789",
+        "Direccion": "calle 30 #8",
+        "id_herramienta": "3"
+    },
+    {
+        "id": 6,
+        "Nombre": "papu",
+        "Apellido": "qqqq",
+        "Telefono": "1234567899",
+        "Direccion": "calle #10 3",
+        "id_herramienta": "2"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "Nombre": "martillo",
+        "Categoria": "construccion",
+        "Estado": "arreglada",
+        "Cantidad": 5
+    },
+    {
+        "id": 2,
+        "Nombre": "taladro",
+        "Categoria": "construccion",
+        "Estado": "funcional",
+        "Cantidad": 3
+    },
+    {
+        "id": 3,
+        "Nombre": "destornillador",
+        "Categoria": "construccion",
+        "Estado": "arreglada",
+        "Cantidad": 10
+    }
+]

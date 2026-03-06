@@ -1,0 +1,14 @@
+[
+    {
+        "fecha": "2026-02-25 12:11:52",
+        "herramienta": 3,
+        "accion": "actualizar_herramienta",
+        "detalle": " La herramienta: Nombre: destornillador, Categoria: construccion, Estado: da\u00f1ada, ha sido actualizada"
+    },
+    {
+        "fecha": "2026-02-25 12:12:39",
+        "herramienta": 3,
+        "accion": "actualizar_herramienta",
+        "detalle": " La herramienta: Nombre: destornillador, Categoria: construccion, Estado: arreglada, ha sido actualizada"
+    }
+]
